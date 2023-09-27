@@ -1,0 +1,11 @@
+--2023-09-27 11:30:15--  https://oim.ugetam.istanbul/file?src=slider/7a084380c006fc81cf37ae5b316d979e.jpg
+Resolving oim.ugetam.istanbul (oim.ugetam.istanbul)... 104.21.6.24, 172.67.154.150, 2606:4700:3034::ac43:9a96, ...
+Connecting to oim.ugetam.istanbul (oim.ugetam.istanbul)|104.21.6.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15690 (15K) [image/jpeg]
+Saving to: ‘file?src=slider%2F7a084380c006fc81cf37ae5b316d979e.jpg’
+
+                file?src=slider   0%[                                                     ]       0  --.-KB/s               file?src=slider%2F7a084380c006f 100%[====================================================>]  15,32K  --.-KB/s    in 0,03s   
+
+2023-09-27 11:30:16 (603 KB/s) - ‘file?src=slider%2F7a084380c006fc81cf37ae5b316d979e.jpg’ saved [15690/15690]
+
